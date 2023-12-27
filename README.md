@@ -2,8 +2,6 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-yan-lopes-dos-santos-5a7014144/)
 
-![Roger Yan GitHub stats](https://github-readme-stats.vercel.app/api?username=roger4yan&show_icons=true&theme=dracula)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roger4yan&layout=compact)
 
 ## Tecnologias
